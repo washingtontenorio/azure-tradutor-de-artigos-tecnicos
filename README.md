@@ -1,7 +1,6 @@
 # azure-tradutor-de-artigos-tecnicos
 Desafio de projeto DIO
-# azure-tradutor-de-artigos-tecnicos
-Desafio de projeto DIO
+
 # 🌐 Azure AI Translator - Lab AI 102 📝
 
 ## 📒 Descrição
